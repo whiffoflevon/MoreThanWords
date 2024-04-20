@@ -114,7 +114,7 @@ while True:
         update_list()
     else:
         print("Invalid selection.")
-        continue
+        continue 
          
          
 
