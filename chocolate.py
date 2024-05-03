@@ -85,7 +85,7 @@ def update_list():
             print("Fragrance not found.")
             return update_list()
 
-while True:
+while True: 
     print("Welcome to the fragrance store!")
     print()
     print("""
